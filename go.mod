@@ -5,7 +5,7 @@ replace (
 	golang.org/x/net => github.com/golang/net v0.0.0-20190301231341-16b79f2e4e95
 	golang.org/x/sync => github.com/golang/sync v0.0.0-20190227155943-e225da77a7e6
 	golang.org/x/sys => github.com/golang/sys v0.0.0-20190305064518-30e92a19ae4a
-	golang.org/x/text => github.com/golang/text v0.3.0
+	golang.org/x/text => github.com/golang/text latest
 	golang.org/x/tools => github.com/golang/net v0.0.0-20190301231341-16b79f2e4e95
 )
 
