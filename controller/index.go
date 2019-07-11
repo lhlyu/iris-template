@@ -7,8 +7,6 @@ type IndexControler struct {
 }
 
 func (*IndexControler) Index(ctx iris.Context){
-	ctx.ViewData("Title","XX")
-	ctx.ViewData("World","GO")
 	ctx.View("index.html")
 }
 
